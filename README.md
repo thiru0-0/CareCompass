@@ -5,9 +5,6 @@
     <img src="https://img.shields.io/badge/CareCompass-AI%20Healthcare%20Navigator-purple?style=for-the-badge&logo=health&logoColor=white" alt="CareCompass">
   </a>
   <br>
-  <a href="https://github.com/anomalyco/opencode">
-    <img src="https://img.shields.io/badge/Built%20with-opencode-blue?style=for-the-badge" alt="Built with opencode">
-  </a>
 </p>
 
 ---
