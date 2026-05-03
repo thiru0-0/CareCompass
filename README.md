@@ -123,9 +123,18 @@ When a patient needs treatment:
 
 Watch the demo video to see CareCompass in action:
 
-[![CareCompass Demo]](https://github.com/thiru0-0/CareCompass/raw/main/demo.gif)
 
-*Click the image above or [watch here](https://youtu.be/YOUR_VIDEO_LINK)*
+
+https://github.com/user-attachments/assets/b3bfa4f0-f486-4e54-9fb6-ade3d2c1a89a
+
+
+
+
+https://youtu.be/L9dwNgGzFgM
+
+[![CareCompass Demo]](https://youtu.be/L9dwNgGzFgM)
+
+*Click the image above or [watch here](https://youtu.be/L9dwNgGzFgM)*
 
 ### What You'll See in the Demo
 
@@ -136,21 +145,6 @@ Watch the demo video to see CareCompass in action:
 5. **Scheme Eligibility** - Government schemes user qualifies for
 6. **Financing Gap** - Loan eligibility check
 
-### How to Add Your Demo Video
-
-To add your own demo video:
-
-1. **Record your screen** using OBS, Loom, or QuickTime
-2. **Save as MP4 or WebM** (recommended: 720p, 30fps, 60-90 seconds)
-3. **Upload to GitHub** (as `demo.mp4` in the repo) or **YouTube**
-4. **Update the link** in this section:
-   ```markdown
-   # For YouTube:
-   [![CareCompass Demo]](https://youtu.be/YOUR_YOUTUBE_ID)
-   
-   # Or for local file in repo:
-   [![CareCompass Demo]](https://raw.githubusercontent.com/thiru0-0/CareCompass/main/demo.mp4)
-   ```
 
 ---
 
