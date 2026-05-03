@@ -28,52 +28,6 @@
 15. [Troubleshooting](#troubleshooting)
 16. [Contributing](#contributing)
 17. [License](#license)
-18. [Demo Video](#demo-video)
-
----
-
-## Demo Video
-
-Watch the demo video to see CareCompass in action:
-
-[![CareCompass Demo]](https://github.com/thiru0-0/CareCompass/raw/main/demo.gif)
-
-*Click the image above or [watch here](https://youtu.be/YOUR_VIDEO_LINK)*
-
-### What You'll See in the Demo
-
-1. **Search Interface** - User enters a medical query in natural language
-2. **AI Query Parsing** - System extracts condition, location, budget, comorbidities
-3. **Hospital Ranking** - Results displayed with scores and cost estimates
-4. **Cost Breakdown** - Itemized estimate with confidence score
-5. **Scheme Eligibility** - Government schemes user qualifies for
-6. **Financing Gap** - Loan eligibility check
-
-### Download Your Own Demo Video
-
-To add your own demo video:
-
-1. Record your screen using OBS, Loom, or QuickTime
-2. Save as MP4 or WebM
-3. Upload to:
-   - **Option A**: GitHub (as `demo.mp4` in repo - max 10MB)
-   - **Option B**: YouTube and add link above
-   - **Option C**: Google Drive and add link above
-
-4. If uploading to GitHub, update the link above:
-   ```markdown
-   [![CareCompass Demo]](https://raw.githubusercontent.com/thiru0-0/CareCompass/main/demo.mp4)
-   ```
-
-### Recommended Recording Settings
-
-| Setting | Recommended Value |
-|---------|-------------------|
-| Resolution | 1280x720 (720p) |
-| Frame rate | 30 fps |
-| Format | MP4 (H.264) |
-| Duration | 60-90 seconds |
-| Area | Full browser capture |
 
 ---
 
@@ -162,6 +116,41 @@ When a patient needs treatment:
 │  └──────────────────────────────────────────┘          │
 └──────────────────────────────────────────────────────────┘
 ```
+
+---
+
+## Demo Video
+
+Watch the demo video to see CareCompass in action:
+
+[![CareCompass Demo]](https://github.com/thiru0-0/CareCompass/raw/main/demo.gif)
+
+*Click the image above or [watch here](https://youtu.be/YOUR_VIDEO_LINK)*
+
+### What You'll See in the Demo
+
+1. **Search Interface** - User enters a medical query in natural language
+2. **AI Query Parsing** - System extracts condition, location, budget, comorbidities
+3. **Hospital Ranking** - Results displayed with scores and cost estimates
+4. **Cost Breakdown** - Itemized estimate with confidence score
+5. **Scheme Eligibility** - Government schemes user qualifies for
+6. **Financing Gap** - Loan eligibility check
+
+### How to Add Your Demo Video
+
+To add your own demo video:
+
+1. **Record your screen** using OBS, Loom, or QuickTime
+2. **Save as MP4 or WebM** (recommended: 720p, 30fps, 60-90 seconds)
+3. **Upload to GitHub** (as `demo.mp4` in the repo) or **YouTube**
+4. **Update the link** in this section:
+   ```markdown
+   # For YouTube:
+   [![CareCompass Demo]](https://youtu.be/YOUR_YOUTUBE_ID)
+   
+   # Or for local file in repo:
+   [![CareCompass Demo]](https://raw.githubusercontent.com/thiru0-0/CareCompass/main/demo.mp4)
+   ```
 
 ---
 
